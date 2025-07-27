@@ -1,0 +1,5 @@
+streamlit
+google-api-python-client
+pandas
+mysql-connector-python  # or psycopg2-binary for PostgreSQL
+SQLAlchemy
